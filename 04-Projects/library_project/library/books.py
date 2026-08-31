@@ -16,3 +16,5 @@ def search_book(title):
 
 def check_availability(title):
     return title in books
+
+add_book("Titans")

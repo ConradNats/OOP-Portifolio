@@ -34,6 +34,9 @@ def main():
     # Fine
     fine = calculate_fine(3)
     print(f"Fine: UGX {fine}")
+    
+    print(search_book("Machine learning"))
+    
 
        
 

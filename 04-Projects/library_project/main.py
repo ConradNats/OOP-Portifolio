@@ -1,6 +1,6 @@
 # main.py
 
-from library.books import add_book, search_book
+from library.books import add_book, search_book, check_availability
 from library.members import register_member, search_member
 from library.loans import borrow_book, return_book, calculate_fine
 

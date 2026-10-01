@@ -5,7 +5,7 @@ Topic 5 Group Project – HR / Payroll System
 
 Group 6 Members
 1. Timothy Mugisha
-2. Member Two
+2. Natuyamba Conrad
 3. Member Three
 4. Member Four
 5. Member Five
